@@ -4,18 +4,6 @@
 #include <vector>
 #include <bits/stdc++.h>
 
-/*
-problems to fix:
-- does not work on matrixs at are not squares
-- may not be the fastest
-
-
-0 1 1 1
-1 1 1 1
-1 1 1 1
-1 1 1 1
-
-*/
 
 using namespace std;
 
